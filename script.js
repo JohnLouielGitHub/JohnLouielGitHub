@@ -45,7 +45,7 @@ var myChartPersonal = new Chart(cPersonal, {
         pointHoverRadius: 5,
         pointHoverBackgroundColor: "#fff",
         pointHoverBorderColor: "rgba(255, 204, 102, 1)",
-        data: [0, 1, 2, 3, 4]
+        data: [2, 3, 3, 2, 3]
       }
     ]
   },
@@ -95,7 +95,7 @@ var myChartSkills = new Chart(cSkills, {
         pointHoverRadius: 5,
         pointHoverBackgroundColor: "#fff",
         pointHoverBorderColor: "rgba(102, 153, 204, 1)",
-        data: [0, 1, 2, 3, 4]
+        data: [3, 4, 3, 4, 2]
       }
     ]
   },
@@ -138,7 +138,7 @@ var myChartDevStacks = new Chart(cDevStacks, {
         pointHoverRadius: 5,
         pointHoverBackgroundColor: "#fff",
         pointHoverBorderColor: "rgba(242, 119, 122, 1)",
-        data: [0, 1, 2, 3, 4]
+        data: [3, 2, 2, 4, 4]
       }
     ]
   },

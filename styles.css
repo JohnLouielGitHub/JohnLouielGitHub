@@ -16,6 +16,10 @@ body {
   font-weight: 400;
 }
 
+.d-flex {
+  display: flex;
+}
+
 ul {
   padding-left: 40px;
 }
