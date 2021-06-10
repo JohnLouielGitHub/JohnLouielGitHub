@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true&align=center)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John Louiel</h1>
 <h3 align="center">I'm a Web Developer Trainee.</h3>
@@ -75,3 +75,7 @@
 </a>
 <a><img src="https://img.shields.io/github/followers/JohnLouielGitHub?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+
+
+
