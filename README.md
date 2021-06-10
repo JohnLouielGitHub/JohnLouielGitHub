@@ -1,6 +1,8 @@
+
 <p align="center">
   <img width="100%" src="https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true">
 </p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John Louiel</h1>
 <h3 align="center">I'm a Web Developer Trainee.</h3>
@@ -47,12 +49,9 @@
 
   <br/>
     <a><img alt="JohnLouielGitHub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnLouielGitHub&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76&icon_color=CDCDCD" /></a>
-    
-  <a><img alt="JohnLouielGitHub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouielGitHub&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76" /></a>
+    <a><img alt="JohnLouielGitHub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouielGitHub&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76" /></a>
  
-<b>Note:</b>
-<br>This languages is only a metric that my public code consists of. 
-<br>This doesn't reflect experience or skill level.
+<b>Note:</b>This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
 
 
 <br/>
@@ -76,7 +75,3 @@
 </a>
 <a><img src="https://img.shields.io/github/followers/JohnLouielGitHub?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
-
-
-
