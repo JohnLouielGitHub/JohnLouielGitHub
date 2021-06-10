@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="300" src="https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true">
+  <img width="100%" src="https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John Louiel</h1>
