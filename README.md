@@ -1,5 +1,6 @@
-
-![I am GitHub Readme Generator's creator](https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true&align=center)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnLouielGitHub/Web-profile-John-Louiel-Tamargo/blob/main/mybanner.png?raw=true">
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John Louiel</h1>
 <h3 align="center">I'm a Web Developer Trainee.</h3>
