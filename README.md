@@ -46,9 +46,12 @@
 
   <br/>
     <a><img alt="JohnLouielGitHub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnLouielGitHub&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76&icon_color=CDCDCD" /></a>
+    
   <a><img alt="JohnLouielGitHub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouielGitHub&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=3CDB76" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
+<b>Note:</b>
+<br>This languages is only a metric that my public code consists of. 
+<br>This doesn't reflect experience or skill level.
 
 
 <br/>
@@ -63,6 +66,7 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/john-louiel-tamargo-62a035214"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/JohnLouielGitHub/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/johnlouiel28/"><img src="https://img.icons8.com/facebook.png"/></a>
 </p>
 
 ## 👀 Views and Followers
@@ -71,7 +75,3 @@
 </a>
 <a><img src="https://img.shields.io/github/followers/JohnLouielGitHub?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
-
-
-
