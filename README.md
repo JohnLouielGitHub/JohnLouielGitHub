@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm John Louiel</h1>
-<h3 align="center">I'm a Web Developer Trainee.</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 
 ## 🙋‍♂️ About Me
